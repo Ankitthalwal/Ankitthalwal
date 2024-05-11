@@ -7,7 +7,7 @@ I'm a frontend developer with a passion for crafting beautiful and responsive we
 - 👯 I’m looking to collaborate on projects that involve frontend development, React.js, and design.
 - 🤔 I’m looking for help with mastering DSA concepts and algorithms.
 - 💬 Ask me about anything related to HTML, CSS, JavaScript, React.js, MySQL, designing, Adobe Illustrator, or frontend development in general.
-- 📫 You can reach me via email at ankkithalwal2002@gmail.com.
+- 📫 You can reach me via email at ankitthalwal2002@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new hiking trails and capturing scenic landscapes with my camera.
 
