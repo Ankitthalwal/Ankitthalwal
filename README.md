@@ -1,50 +1,30 @@
- Hi there! 👋 I'm Ankit Thalwal
+Hi there! 👋 I'm Ankit Thalwal
 
-I'm a frontend developer with a passion for crafting beautiful and responsive web experiences. Here's a little about me:
+I'm a Full-Stack Software Engineer with 1.5+ years of experience building .NET-based enterprise and GIS-enabled applications. I work on real-world systems involving spatial data processing, dashboards, and scalable backend services.
 
-- 🔭 I’m currently working on honing my frontend development skills and building exciting projects.
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) to become a better problem solver.
-- 👯 I’m looking to collaborate on projects that involve frontend development, React.js, and design.
-- 🤔 I’m looking for help with mastering DSA concepts and algorithms.
-- 💬 Ask me about anything related to HTML, CSS, JavaScript, React.js, MySQL, designing, Adobe Illustrator, or frontend development in general.
-- 📫 You can reach me via email at ankitthalwal2002@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new hiking trails and capturing scenic landscapes with my camera.
+Here’s a little about me:
 
-#### Skills & Tools:
+🔭 I’m currently working on enterprise-grade GIS platforms and spatial data systems.
 
-<!-- Languages -->
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
-</p>
+🌱 I’m continuously improving my backend architecture and system design skills.
 
-<!-- Frameworks/Libraries -->
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React.js" />
-</p>
+🗺️ I have hands-on experience with geospatial data processing, spatial databases, and GIS-based dashboards.
 
-<!-- Databases -->
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+💬 Ask me about .NET, ASP.NET MVC, REST APIs, PostgreSQL, GIS systems, and full-stack development.
 
-<!-- Design Tools -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
-</p>
+📫 Reach me at: ankitthalwal2002@gmail.com
 
-<!-- Development Tools -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-</p>
+⚡ Fun fact: I enjoy exploring mountain trails and working on tech that solves real-world environmental problems.
 
-Feel free to connect with me or explore my repositories to see some of my projects!
+🚀 Skills & Tools
+💻 Programming Languages
+<p align="left"> <img src="https://img.shields.io/badge/C%23-512BD4?logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" /> </p>
 
-
+🏗 Backend & Frameworks
+<p align="left"> <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" /> </p>
+🌍 GIS & Spatial Tools
+<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-336791?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/GeoMoose-000000?logo=leaflet&logoColor=white" /> </p>
+🌐 Web Technologies
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> </p>
+🛠 Tools
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /> </p>
